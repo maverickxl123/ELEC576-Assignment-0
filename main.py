@@ -1,1 +1,1 @@
-print("ELEC576 Assignment 0")
+print("ELEC576")
